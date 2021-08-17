@@ -1,0 +1,4 @@
+global-include *.c
+global-include *.h
+
+
